@@ -1,0 +1,6 @@
+{
+  "author": "{{ cookiecutter.username }}",
+  "name": "{{ cookiecutter.project_name }}",
+  "version": "{{ cookiecutter.version }}",
+  "minInstallerVersion": "0.4.5"
+}

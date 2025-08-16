@@ -1,0 +1,10 @@
+{
+    "username": "jumpyapple",
+    "company_name": "jumpyapple",
+    "project_name": "Fields of Mistria Mod",
+    "project_slug": "{{ cookiecutter.project_name.replace(' ', '') }}",
+    "mod_short_description": "Awesome short description",
+    "solution_uuid": "{{'{'}}{{ uuid4() }}{{'}'}}",
+    "project_uuid": "{{'{'}}{{ uuid4() }}{{'}'}}",
+    "version": "0.1.0"
+}
