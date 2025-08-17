@@ -152,14 +152,6 @@
     <ClInclude Include="include\YYToolkit\YYTK_Shared_Interface.hpp" />
     <ClInclude Include="include\YYToolkit\YYTK_Shared_Types.hpp" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="CHANGELOG.md" />
-    <None Include="MAINTENANCE.md" />
-    <None Include="manifest.json" />
-    <None Include="package.proj" />
-    <None Include="package.ps1" />
-    <None Include="README.md" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
